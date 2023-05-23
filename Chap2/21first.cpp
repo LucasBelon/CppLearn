@@ -29,3 +29,9 @@ int main(void){
  * Enquanto trabalho com arquivos simples, vou utlizar,
  * como exemplo nesse arquivo, o make first.
  * */
+
+/* Um programa pode ser dividido em diferentes namespaces.
+ * Um namespace é uma parte do programa em que certos
+ * nomes são reconhecidos. Fora do namespace eles são
+ * desconhecidos.
+ * */
