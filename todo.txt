@@ -1,0 +1,6 @@
+Vou precisar ser bem claro com minhas palavras enquanto
+aprendo C++.
+Ainda preciso criar um diretório e dar por finalizados
+os projetos mais antigos. E obedecer minha lista de
+afazeres.
+Primeiro todo: Escrever sobre o que são namespaces.[v]
