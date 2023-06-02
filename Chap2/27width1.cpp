@@ -18,10 +18,14 @@ int main(void){
               << "Portcity " << pop1   << std::endl
               << "Hightown " << pop2   << std::endl
               << "Lowville " << pop3   << std::endl;
-    std::cout << "Tamanho Bool: "
-        << sizeof(booleano)
-        << std::endl;
-    std::cout << "Tamanho Char: "
-        << sizeof(caractere) << std::endl;
+
+    std::cout <<
+        "Tamanho Bool: " <<
+        sizeof(booleano) <<
+        std::endl        <<
+
+        "Tamanho Char: "  <<
+        sizeof(caractere) <<
+        std::endl;
     return 0;
 }
