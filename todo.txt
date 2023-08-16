@@ -4,4 +4,11 @@ Ainda preciso criar um diretório e dar por finalizados
 os projetos mais antigos. E obedecer minha lista de
 afazeres.
 Primeiro todo: Escrever sobre o que são namespaces.[v]
-- Terminar capitulo 2 [ ].
+- Terminar capitulo 2 [v]. O básico.
+- Terminar capitulo 3 [v]. Loops e decisões.
+    - Fazer exercícios [ ].
+- Terminar capitulo 4 [v]. Estruturas e Enum.
+- Terminar capitulo 5 [ ]. Funções.
+
+
+

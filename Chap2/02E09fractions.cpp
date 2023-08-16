@@ -1,4 +1,5 @@
-/* */
+/* Um programa que faça soma de frações
+ * */
 
 # include <iostream>
 using namespace std;

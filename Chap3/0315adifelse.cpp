@@ -9,9 +9,9 @@ int main() {
   cout << "Type Enter to quit\n";
   while (dir != ' ') // until Enter is typed
   {
+    printf("dir is: %d\n",dir);
     cout << "\nYour location is " << x << ", " << y;
     cout << "\nPress direction key(n, s, e, w) : ";
-    dir = getchar(); // get character
     while((dir = getchar()) == '\n') ;
     if (dir == 'n')  // go north
       y--;

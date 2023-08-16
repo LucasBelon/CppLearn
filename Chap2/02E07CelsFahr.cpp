@@ -1,4 +1,5 @@
-/**/
+/* Programa que converte de Celsius pra fahrenheit.
+ * */
 
 # include <iostream>
 using namespace std;

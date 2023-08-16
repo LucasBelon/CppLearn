@@ -1,4 +1,5 @@
-/* Setw sendo usado*/
+/* Setw sendo usado.
+ * */
 
 # include <iostream> // para o cout
 # include <iomanip> // para o setw

@@ -1,4 +1,5 @@
-/* */
+/* Um programa que mostre um texto.
+ * Use um único cout.*/
 
 # include <iostream>
 using namespace std;
