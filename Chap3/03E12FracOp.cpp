@@ -25,8 +25,8 @@ int main(void){
         result_divisor;
     char operation;
     char descarte;
-    int parar = 0;
-    while(parar !=1){
+    int parar;
+    do{
         cout << "Escolha a operação: {+|-|*|/}: ";
         cin >> operation;
         cout << "Escreva a primeira fração [a/b]: ";
@@ -66,7 +66,7 @@ int main(void){
         cout << "A fração resultado é: " << result_dividendo << "/" << result_divisor << endl;
         cout << "Digite 1 para parar, 0 para contunuar: ";
         cin >> parar;
-    }
+    } while(parar !=1);
     return 0;
 }
 
