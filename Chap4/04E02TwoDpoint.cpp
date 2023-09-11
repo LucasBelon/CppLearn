@@ -20,3 +20,24 @@
  * Enter coordinates for p2: 5 7
  * Coordinates of p1+p2 are: 8, 11
  * */
+
+# include <iostream>
+using namespace std;
+
+struct POINT {
+    int horizontal;
+    int vertical;
+};
+
+int main(void){
+    POINT point1, point2, sum;
+    cout << "Enter coordinates for p1: " ;
+    cin >> point1.horizontal >> point1.vertical;
+    cout << "Enter coordinates for p2: " ;
+    cin >> point2.horizontal >> point2.vertical;
+    sum.horizontal = point1.horizontal + point2.horizontal;
+    sum.vertical = point1.vertical + point2.vertical;
+    cout << "Coordinates of p1 + p2 are: " << sum.horizontal << ", " << sum.vertical << endl;
+
+    return 0;
+}
